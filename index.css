@@ -29,7 +29,7 @@ h3 {
 }
 
 main {
-    background-image: url("/resources/images/image-from-rawpixel-id-5934039-jpeg.jpg");
+    background-image: url("resources/images/image-from-rawpixel-id-5934039-jpeg.jpg");
     padding-bottom: 20px;
 }
 
